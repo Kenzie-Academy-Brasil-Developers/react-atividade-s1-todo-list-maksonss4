@@ -1,0 +1,12 @@
+ul{
+    padding: 0;
+}
+
+.buttonConcluir{
+    background-color: rgba(254, 65, 65, 0.763);
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 2px 5px;
+}
